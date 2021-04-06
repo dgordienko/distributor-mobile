@@ -1,0 +1,14 @@
+<svg class="svg">
+  <clippath id="cp-circle">
+    <circle r="180" cx="50%" cy="42%"></circle>
+    <text text-anchor="middle" x="50%" y="98%">Soldier Of Fortune</text>
+  </clippath>
+
+  <g clip-path="url(#cp-circle)">
+    <foreignObject width="853" x="0" y="0" height="480">
+      <body xmlns="http://www.w3.org/1999/xhtml">
+        <iframe width="853" height="480" src="//www.youtube.com/embed/RKrNdxiBW3Y" frameborder="0"></iframe>
+      </body>
+    </foreignObject>
+  </g>
+</svg>
